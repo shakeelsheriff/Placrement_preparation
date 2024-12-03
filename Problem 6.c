@@ -1,7 +1,7 @@
 /*  Name: Shakeel Sheriff M
     Batch : 24002
     Date: 02/12/2024
-    Problem 6:  Problem 4: Design an algorithm and write code to remove the duplicate characters in a string
+    Problem 6:  Design an algorithm and write code to remove the duplicate characters in a string
                 without using any additional buffer.
                 Examples:
                 Input = thgyujgehtwdts
